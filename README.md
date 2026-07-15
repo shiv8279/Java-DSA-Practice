@@ -1,27 +1,53 @@
-# Java DSA Practice
+# 🚀 Java DSA Practice
 
-Welcome to my Java Data Structures and Algorithms repository.
+Welcome to my Data Structures and Algorithms repository.
 
-## About
+## 👨‍💻 About Me
 
-This repository contains Java implementations of fundamental Data Structures and Algorithms that I am learning during my B.Tech in Computer Science & Engineering (AI).
+Hi, I'm **Shiv Upadhyay**, a B.Tech Computer Science & Engineering (Artificial Intelligence) student at **Galgotias University**.
 
-## Topics
+I am passionate about problem solving, Java programming, Data Structures & Algorithms, and Artificial Intelligence.
 
-- Arrays
-- Searching
-- Sorting
-- Strings
-- Linked Lists
-- Stacks (Coming Soon)
-- Queues (Coming Soon)
-- Trees (Coming Soon)
+This repository documents my journey of learning DSA through Java.
 
-## Language
+---
+
+## 📚 Topics Covered
+
+### Arrays
+- Linear Search
+- Binary Search
+- Reverse Array
+
+### Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+
+### Strings
+- Reverse String
+- Palindrome Check
+
+### Linked List
+- Singly Linked List
+
+---
+
+## 🛠️ Tech Stack
 
 - Java
+- Object Oriented Programming
+- Data Structures
+- Algorithms
 
-## Author
+---
 
-Shiv Upadhyay# Java-DSA-Practice
-Java programs for Data Structures and Algorithms practice.
+## 🎯 Goals
+
+- Strengthen problem-solving skills
+- Build strong programming fundamentals
+- Prepare for Software Engineering interviews
+
+---
+
+⭐ Thank you for visiting my repository.

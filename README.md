@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Java%20DSA%20Practice&fontSize=42&fontColor=ffffff)
+
 # 🚀 Java DSA Practice
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![DSA](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge)
+
+![Algorithms](https://img.shields.io/badge/Algorithms-28A745?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 Welcome to my Data Structures and Algorithms repository.
 

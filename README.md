@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Java%20DSA%20Practice&fontSize=42&fontColor=ffffff)
 # 🚀 Java DSA Practice
 
 Welcome to my Data Structures and Algorithms repository.
